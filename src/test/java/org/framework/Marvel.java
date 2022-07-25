@@ -19,6 +19,11 @@ public static void main(String[] args) {
 	findElement2.sendKeys("1233");
 	System.out.println("77342");
 	System.out.println("78934287934");
+	System.out.println("784578");
+	System.out.println("7845");
+
+	
+
 }
 
 }
