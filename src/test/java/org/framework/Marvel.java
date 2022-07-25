@@ -17,8 +17,13 @@ public static void main(String[] args) {
 	findElement.sendKeys("pugal");
 	WebElement findElement2 = driver.findElement(By.id("pass"));
 	findElement2.sendKeys("1233");
+	System.out.println("77342");
+	System.out.println("78934287934");
 	System.out.println("784578");
 	System.out.println("7845");
+
+	
+
 }
 
 }
